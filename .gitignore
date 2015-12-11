@@ -28,7 +28,6 @@ Thumbs.db
 
 # Userconfigurations
 /config.php
-/config_*.php
 
 # Caches/Proxies
 /tests/Shopware/TempFiles/*
