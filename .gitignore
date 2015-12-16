@@ -16,7 +16,7 @@ Thumbs.db
 
 # Composer
 /composer.phar
-/vendor/
+
 
 # Internal Repositories
 /internal
